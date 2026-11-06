@@ -1,0 +1,23 @@
+# Checks completed
+
+- JavaScript syntax checked for app, content, configuration, player, and emulator bundle.
+- Template stylesheet SHA-256 matches the supplied modular template exactly.
+- Browser checked in English/light and Spanish/dark, at desktop and phone widths; no page-level horizontal overflow in those checks. Navigation scrolls within its own row.
+- Wordmark measured at 154px on desktop. Oz uses a 78px layout box, slightly larger than the original 66px logo.
+- Karate, Ghostbusters, Yars’ Revenge, River Raid, H.E.R.O., Pitfall!, Star Wars: The Arcade Game, and E.T. loaded from Wix in browser checks. Ghostbusters' Finish Shopping button activated the console's F4/DIFFICULTY0 function. The original Start/Pause/Reset, close, and persistence checks also passed. Spider-Man and Superman remain mapped to supplied URLs but were not separately replayed in this pass.
+- Blank opening answers do not prevent purchase confirmation or movement to an unlocked page.
+- Incorrect pacing code rejected; correct pacing code advances one historical page at a time.
+- `TeLePHONE home` and `PHONE` both triggered the crash transition. Earlier game launchers stayed unavailable after refresh; written answers remained present.
+- Completion table displayed per-page counts, including 0/3 for an unanswered Do Now. Return buttons navigated to the corresponding page. Counts reflect non-whitespace responses; they do not grade correctness.
+- The unhinted WHY? view, teacher reveal, phone transition, three Roblox discussion prompts, revised $100 exit ticket, and per-page counts passed browser checks.
+- Submit is disabled because the Google Sheet endpoint has not been configured, independently of answer counts. The reward tab remains locked. No Google Form or Firebase integration is included.
+- Local receiver tests passed for saving optional answers, input validation, duplicate prevention, lock release, spreadsheet formula escaping, and receipt-only read responses. Local client tests passed for sending answers by POST, refusing to treat POST as success, matching receipt IDs, and confirming only a saved receipt.
+- Browser response-file download test was declined by the browser download approval gate in the earlier pass; the exported file was not verified. No alternate download path was attempted. Printing was not tested.
+- A real Google Apps Script deployment, real Sheet submission, school-network access, and automatic arcade unlock from a live Google receipt still need end-to-end verification after account setup. There is no claim of a deployed connection.
+- No ROM files or Ghidra exports included. School-network access and the undecided media remain to be checked.
+- Final checks retained the original stylesheet hash, confirmed all five comparison launchers, and verified the Spanish comparison/exit text. The narrow popup measured 263px of content in a 263px frame without horizontal overflow after the layout fix.
+- The crash page split passed a fresh-browser test: page 6 saves a freewrite, Continue opens the normal checkpoint modal, an incorrect password stays blocked, and PHONE home opens the separate page 7 explanation. Later navigation and all per-page completion counts remained correct after the inserted page. The existing draft indices migrate once without discarding answers.
+- Browser checks confirmed the E.T. excavation link, source widgets, and What Happened box are absent. Brands & Licensing is retained.
+- Revised password checks passed: adventure opens page 7, GTAVI opens page 8, slop opens page 9, page 9 continues directly to page 10, and freeplay opens the arcade. The arcade renders five good games, one divider, and seven other lesson games. Fire Fly opens directly from the arcade despite the earlier crash lock.
+- Expanded catalog: 23 reward/comparison cards above the divider and seven earlier lesson games below; all 30 cover images loaded successfully. Each of the 30 game entries loaded in Javatari and its visible cartridge label was inspected. The shared URL labeled E.T. actually identified as Ghostbusters; that mapping was corrected and the earlier E.T. file was rechecked as E.T. - The Extra-Terrestrial. Loading checks are not full-game playthroughs. Results are in PLAYTESTS.json.
+- Twenty-five newly downloaded PNG front covers passed signature and file checks; supplied covers remain for the other lesson games. Latest Frogger, normalized Galaxian, unique game URLs, and Kaboom paddle configuration passed catalog checks.

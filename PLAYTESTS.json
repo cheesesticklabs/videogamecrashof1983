@@ -1,0 +1,213 @@
+[
+  {
+    "id": "good-0",
+    "title": "Yars’ Revenge",
+    "ok": true,
+    "status": "Playing Yars’ Revenge.",
+    "cartridge": "Yars' Revenge"
+  },
+  {
+    "id": "good-1",
+    "title": "River Raid",
+    "ok": true,
+    "status": "Playing River Raid.",
+    "cartridge": "RIVER RAID"
+  },
+  {
+    "id": "good-2",
+    "title": "H.E.R.O.",
+    "ok": true,
+    "status": "Playing H.E.R.O.",
+    "cartridge": "H.E.R.O."
+  },
+  {
+    "id": "good-3",
+    "title": "Pitfall!",
+    "ok": true,
+    "status": "Playing Pitfall!",
+    "cartridge": "PITFALL!"
+  },
+  {
+    "id": "good-4",
+    "title": "Star Wars: The Arcade Game",
+    "ok": true,
+    "status": "Playing Star Wars: The Arcade Game.",
+    "cartridge": "Star Wars - The Arcade Game"
+  },
+  {
+    "id": "reward-kaboom",
+    "title": "Kaboom!",
+    "ok": true,
+    "status": "Playing Kaboom!",
+    "cartridge": "Kaboom!"
+  },
+  {
+    "id": "reward-solaris",
+    "title": "Solaris",
+    "ok": true,
+    "status": "Playing Solaris.",
+    "cartridge": "Solaris"
+  },
+  {
+    "id": "reward-frogger",
+    "title": "Frogger",
+    "ok": true,
+    "status": "Playing Frogger.",
+    "cartridge": "Frogger"
+  },
+  {
+    "id": "reward-ms-pacman",
+    "title": "Ms. Pac-Man",
+    "ok": true,
+    "status": "Playing Ms. Pac-Man.",
+    "cartridge": "Ms. Pac-Man"
+  },
+  {
+    "id": "reward-berzerk",
+    "title": "Berzerk",
+    "ok": true,
+    "status": "Playing Berzerk.",
+    "cartridge": "Berzerk"
+  },
+  {
+    "id": "reward-asteroids",
+    "title": "Asteroids",
+    "ok": true,
+    "status": "Playing Asteroids.",
+    "cartridge": "Asteroids"
+  },
+  {
+    "id": "reward-galaxian",
+    "title": "Galaxian",
+    "ok": true,
+    "status": "Playing Galaxian.",
+    "cartridge": "Galaxian"
+  },
+  {
+    "id": "reward-pacman",
+    "title": "Pac-Man",
+    "ok": true,
+    "status": "Playing Pac-Man.",
+    "cartridge": "PAC-MAN"
+  },
+  {
+    "id": "reward-space-invaders",
+    "title": "Space Invaders",
+    "ok": true,
+    "status": "Playing Space Invaders.",
+    "cartridge": "Space Invaders"
+  },
+  {
+    "id": "reward-donkey-kong",
+    "title": "Donkey Kong",
+    "ok": true,
+    "status": "Playing Donkey Kong.",
+    "cartridge": "Donkey Kong"
+  },
+  {
+    "id": "reward-dig-dug",
+    "title": "Dig Dug",
+    "ok": true,
+    "status": "Playing Dig Dug.",
+    "cartridge": "Dig Dug"
+  },
+  {
+    "id": "reward-centipede",
+    "title": "Centipede",
+    "ok": true,
+    "status": "Playing Centipede.",
+    "cartridge": "Centipede"
+  },
+  {
+    "id": "reward-phoenix",
+    "title": "Phoenix",
+    "ok": true,
+    "status": "Playing Phoenix.",
+    "cartridge": "Phoenix"
+  },
+  {
+    "id": "reward-defender",
+    "title": "Defender",
+    "ok": true,
+    "status": "Playing Defender.",
+    "cartridge": "Defender"
+  },
+  {
+    "id": "reward-haunted-house",
+    "title": "Haunted House",
+    "ok": true,
+    "status": "Playing Haunted House.",
+    "cartridge": "Haunted House"
+  },
+  {
+    "id": "reward-plaque-attack",
+    "title": "Plaque Attack",
+    "ok": true,
+    "status": "Playing Plaque Attack.",
+    "cartridge": "Plaque Attack"
+  },
+  {
+    "id": "reward-adventure",
+    "title": "Adventure",
+    "ok": true,
+    "status": "Playing Adventure.",
+    "cartridge": "Adventure"
+  },
+  {
+    "id": "reward-missile-command",
+    "title": "Missile Command",
+    "ok": true,
+    "status": "Playing Missile Command.",
+    "cartridge": "missile command"
+  },
+  {
+    "id": "firefly",
+    "title": "Fire Fly",
+    "ok": true,
+    "status": "Playing Fire Fly.",
+    "cartridge": "Fire Fly"
+  },
+  {
+    "id": "breakout",
+    "title": "Super Breakout",
+    "ok": true,
+    "status": "Playing Super Breakout.",
+    "cartridge": "Super Breakout"
+  },
+  {
+    "id": "karate",
+    "title": "Karate",
+    "ok": true,
+    "status": "Playing Karate.",
+    "cartridge": "Karate"
+  },
+  {
+    "id": "spiderman",
+    "title": "Spider-Man",
+    "ok": true,
+    "status": "Playing Spider-Man.",
+    "cartridge": "Spider-Man"
+  },
+  {
+    "id": "superman",
+    "title": "Superman",
+    "ok": true,
+    "status": "Playing Superman.",
+    "cartridge": "Superman"
+  },
+  {
+    "id": "ghostbusters",
+    "title": "Ghostbusters",
+    "ok": true,
+    "status": "Playing Ghostbusters.",
+    "cartridge": "Ghostbusters"
+  },
+  {
+    "id": "et",
+    "title": "E.T.",
+    "ok": true,
+    "status": "Playing E.T.",
+    "cartridge": "E.T. - The Extra-Terrestrial",
+    "note": "Restored the earlier E.T. URL after the newly labeled URL identified as Ghostbusters."
+  }
+]
